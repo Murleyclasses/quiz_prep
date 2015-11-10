@@ -1,2 +1,7 @@
 <link rel="stylesheet" href="stylesheet.css">
 p {font-type: Times;}
+h1 {font-type: courier;}
+h2 {font-type: Times;}
+h3 {font-type: Arial;}
+figcaption {font-type: Arial;}
+body {color: black;}
