@@ -1,1 +1,61 @@
 
+h1.head {
+	text-align: center;
+	font-family: Georgia;
+}
+
+h3.subhead {
+	text-align: center;
+	font-family: Verdana;
+
+}
+
+img.photo {
+	float: right;
+}
+
+p.caption {
+	text-align: right;
+	font-family: Helvetica;
+	font-weight: lighter;
+}
+
+p {
+	font-family: monospace;
+
+}
+
+p.bylinename {
+	font-weight: bold;
+}
+
+li.bar {
+	display: inline;
+	float: left;
+	text-align: center;
+	position: relative;
+	display: inline;
+	margin: 10px;
+}
+
+ul.nav {
+	border: 1px solid #ccc;
+	border-width: 1px 0;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.nav li {
+	display: inline;
+}
+
+.nav a {
+	display: inline-block;
+	padding: 10px;
+}
+
+.contribute {
+	font-style: italic;
+}
