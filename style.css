@@ -1,1 +1,24 @@
-
+body {background-color:#2C8CCC;}
+h2 {font-family: Arial;text-align: center;}
+p {font-family: Times; color: black; font-size: 20px;text-align:center;}
+li {font-family: Times; color: black;font-size: 20px;}
+h1 {font-family: Arial;font-size: 30px; }
+ul {font-family: Times;color:black;font-size: 20px;}
+hr {border: 2px solid;color: #000000;}
+.name{text-align: center;}
+main {
+  width: 980px;
+  height: 570px;
+  margin-left:auto;
+  margin-right:auto;
+}
+header {
+  color: black;
+  text-align:center;
+  padding; 0 20 0 20;
+  border: 2px black solid;
+  margin: 10px;
+}
+nav {postion:relative;}
+nav li {display:inline;}
+a {text-align: center;}
