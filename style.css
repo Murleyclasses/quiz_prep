@@ -1,1 +1,36 @@
+body { 
+color: #5420FF;
+background-color: #FF207A; 
+font-size: 16px;
+}
 
+h1{
+color:#E81DDS
+}
+a:link{
+    text-decoration: none;
+    color:#D02CFF;
+}
+
+a:hover{
+    color:#00FF00;
+}
+
+a:visited{
+    color:#841DE8;
+}
+p{ 
+    text-align: left;
+    font-family: Times;
+}
+blockquote{
+    color:#39E83C;
+}
+.culine{
+    color:#E8D71D;
+    font-size:20px;
+}
+.carts{
+    color:#20FFC3;
+    font-size:20px;
+}
