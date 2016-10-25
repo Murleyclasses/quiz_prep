@@ -1,4 +1,4 @@
-Create a Fork of this repository. The HTML/CSS files you will work on are in this folder.
+Download this repository. The HTML/CSS files you will work on are in this folder.
 
 # HTML/CSS Quiz Preparation Run.
 * Text and Images are provided in the story1.html file (URL for photos are above each caption).
