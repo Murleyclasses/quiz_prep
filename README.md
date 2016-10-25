@@ -18,4 +18,4 @@ Download this repository. The HTML/CSS files you will work on are in this folder
 * One quote from the story must be styled as a blockquote.
 * CSS must be used for all styling.
 
-When you are finished with the assignment, create a pull request to the Repository "Quiz_Prep" and submit your pages.
+When you are finished with the assignment, upload the folder to your pen.eiu.edu account and send me a link via e-mail (The link should be http://pen.eiu.edu/~yourname/quiz_prep/.
